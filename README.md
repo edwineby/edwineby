@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/29737687/README.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b69,100:6d28d9&height=220&section=header&text=Edwin%20Eby&fontSize=60&fontColor=e0d4ff&animation=fadeIn&fontAlignY=35&desc=Software%20QA%20Engineer%20%7C%20Aspiring%20Data%20%26%20BI%20Analyst&descAlignY=55&descSize=18" width="100%"/>
@@ -10,7 +11,7 @@
 
 ![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science-6d28d9?style=flat-square&labelColor=0f0524)
 ![University](https://img.shields.io/badge/APJ%20Abdul%20Kalam%20Tech%20University-Expected%202026-4c1d95?style=flat-square&labelColor=0f0524)
-![Location](https://img.shields.io/badge/ðŸ“-Thrissur%2C%20Kerala%2C%20India-2d1b69?style=flat-square&labelColor=0f0524)
+![Location](https://img.shields.io/badge/📍-Thrissur%2C%20Kerala%2C%20India-2d1b69?style=flat-square&labelColor=0f0524)
 
 <br/>
 
@@ -30,32 +31,32 @@
 
 ---
 
-## ðŸ§¬ About Me
+## 🧬 About Me
 
 ```
 > whoami
 ```
 
 I'm a final-year **Computer Science undergraduate** and **Quality Assurance Trainee** with a sharp eye for
-detail and a growing passion for turning data into decisions. My foundation is in **software reliability** â€”
-manual, automation, and API testing â€” where I've learned to think in edge cases, validate assumptions, and
+detail and a growing passion for turning data into decisions. My foundation is in **software reliability** —
+manual, automation, and API testing — where I've learned to think in edge cases, validate assumptions, and
 never trust a system until it's proven itself under pressure.
 
 That QA mindset is now driving me toward **Data Analysis & Business Intelligence**. I'm actively building
 skills in **Power BI, SQL, and Python-based data workflows**, with hands-on exposure to real-time data
 visualization and API-integrated applications through my project work. I care about **clean data, clear
-dashboards, and decisions backed by evidence** â€” not guesses.
+dashboards, and decisions backed by evidence** — not guesses.
 
 <div align="center">
 
-| ðŸ” QA Foundation | ðŸ“Š Data & BI Growth | ðŸ› ï¸ Builder Mindset |
+| 🔍 QA Foundation | 📊 Data & BI Growth | 🛠️ Builder Mindset |
 |:---:|:---:|:---:|
-| Manual, automation & API testing | Power BI Â· SQL Â· Python | Full-stack project delivery |
-| Defect identification & reliability | Real-time data visualization | React Â· Firebase Â· APIs |
+| Manual, automation & API testing | Power BI · SQL · Python | Full-stack project delivery |
+| Defect identification & reliability | Real-time data visualization | React · Firebase · APIs |
 
 </div>
 
-### ðŸŽ¯ Open To
+### 🎯 Open To
 
 ```yaml
 Open_To:
@@ -68,7 +69,7 @@ Open_To:
 
 ---
 
-## ðŸ§° Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -104,26 +105,26 @@ Open_To:
 
 ---
 
-## ðŸ“Š Data & Analytics Focus
+## 📊 Data & Analytics Focus
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Power BI (BI & Visualization)** | ðŸŸ£ðŸŸ£ðŸŸ£âšªâšª In Progress | Certified in Power BI Desktop; building dashboards & reports for business insights |
-| **SQL (Data Querying)** | ðŸŸ£ðŸŸ£âšªâšªâšª Learning | Actively developing querying, joins, and data-cleaning fundamentals |
-| **Python for Data Handling** | ðŸŸ£ðŸŸ£ðŸŸ£âšªâšª Applied | Used for data preprocessing and real-time data handling in project work |
-| **API Testing & Data Validation** | ðŸŸ£ðŸŸ£ðŸŸ£ðŸŸ£âšª Practiced | Hands-on API testing (Postman) ensuring data integrity across systems |
-| **Data Visualization (Frontend)** | ðŸŸ£ðŸŸ£ðŸŸ£âšªâšª Applied | Built real-time visual dashboards using React in production-style projects |
+| **Power BI (BI & Visualization)** | 🟣🟣🟣⚪⚪ In Progress | Certified in Power BI Desktop; building dashboards & reports for business insights |
+| **SQL (Data Querying)** | 🟣🟣⚪⚪⚪ Learning | Actively developing querying, joins, and data-cleaning fundamentals |
+| **Python for Data Handling** | 🟣🟣🟣⚪⚪ Applied | Used for data preprocessing and real-time data handling in project work |
+| **API Testing & Data Validation** | 🟣🟣🟣🟣⚪ Practiced | Hands-on API testing (Postman) ensuring data integrity across systems |
+| **Data Visualization (Frontend)** | 🟣🟣🟣⚪⚪ Applied | Built real-time visual dashboards using React in production-style projects |
 
 </div>
 
 ---
 
-## ðŸš€ Featured Projects
+## 🚀 Featured Projects
 
 <details>
-<summary><b>ðŸ“ˆ StockX â€” AI-Powered Stock Prediction Platform</b></summary>
+<summary><b>📈 StockX — AI-Powered Stock Prediction Platform</b></summary>
 <br/>
 
 An end-to-end web application that delivers AI-driven stock predictions through real-time data
@@ -132,23 +133,23 @@ visualization, combining a responsive front-end with LSTM-based forecasting outp
 | Aspect | Details |
 |---|---|
 | **Stack** | React, Firebase, Python, Financial APIs |
-| **Scale** | End-to-end web application â€” front-end, API integration, data pipeline |
+| **Scale** | End-to-end web application — front-end, API integration, data pipeline |
 | **Performance** | Real-time stock data visualization with live API-driven updates |
 | **Core ML** | LSTM-based prediction output integrated into the visualization layer |
 | **Repository** | [github.com/edwineby](https://github.com/edwineby) |
 
 **Engineering Notes:** Owned the front-end architecture and API integration layer, handling data
 preprocessing pipelines to feed model output into a real-time visualization interface. Focused on
-delivering a smooth, responsive experience while keeping the data pipeline reliable and consistent â€”
+delivering a smooth, responsive experience while keeping the data pipeline reliable and consistent —
 an extension of the QA discipline of not trusting output you haven't validated.
 
 </details>
 
 ---
 
-## ðŸ’¼ Experience
+## 💼 Experience
 
-**Quality Analyst Trainee** Â· Caddayn
+**Quality Analyst Trainee** · Caddayn
 `Trainee`
 
 Performing manual, automation, and API testing across application layers to safeguard product
@@ -163,20 +164,20 @@ reliability before release.
 
 ---
 
-## ðŸ† Achievements
+## 🏆 Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| ðŸ¥‡ **1st Place â€” AI Hackathon** | BrainBrix, SCET Â· Oct 2024 |
-| ðŸ¥‡ **1st Place â€” Operations Event** | SIMS Â· Sep 2024 |
+| 🥇 **1st Place — AI Hackathon** | BrainBrix, SCET · Oct 2024 |
+| 🥇 **1st Place — Operations Event** | SIMS · Sep 2024 |
 
 </div>
 
 ---
 
-## ðŸ“œ Certifications
+## 📜 Certifications
 
 <div align="center">
 
@@ -192,7 +193,7 @@ reliability before release.
 
 ---
 
-## ðŸ“ˆ GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
@@ -205,7 +206,7 @@ reliability before release.
 
 ---
 
-## ðŸ… GitHub Trophies
+## 🏅 GitHub Trophies
 
 <div align="center">
 
@@ -215,7 +216,7 @@ reliability before release.
 
 ---
 
-## ðŸ“Š Contribution Activity
+## 📊 Contribution Activity
 
 <div align="center">
 
@@ -225,7 +226,7 @@ reliability before release.
 
 ---
 
-## ðŸ Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -235,7 +236,7 @@ reliability before release.
 
 ---
 
-## ðŸŽ¯ Current Focus
+## 🎯 Current Focus
 
 ```yaml
 Current_Focus:
@@ -260,7 +261,7 @@ Current_Focus:
 
 ---
 
-## ðŸ“¬ Connect With Me
+## 📬 Connect With Me
 
 <div align="center">
 
@@ -274,7 +275,7 @@ Current_Focus:
 
 <div align="center">
 
-*"Reliability is a habit before it's a metric â€” I test for it, and I build for it."*
+*"Reliability is a habit before it's a metric — I test for it, and I build for it."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:2d1b69,100:0f0524&height=120&section=footer" width="100%"/>
 
