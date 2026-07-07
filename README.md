@@ -215,7 +215,7 @@ reliability before release.
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution 
 
 <div align="center">
 
